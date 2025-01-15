@@ -1,6 +1,7 @@
 // pages/index.js
 "use client";
 import { useState, useEffect } from "react";
+import "regenerator-runtime/runtime";
 import {
   Mic,
   Camera,
