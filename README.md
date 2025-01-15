@@ -29,7 +29,7 @@ Follow the steps below to set up and run the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anshuman1303/hotel-search
+https://github.com/TusharSachdeva29/Hotel-Search-new.git
 cd hotel-search
 
 # Set up the Python backend
